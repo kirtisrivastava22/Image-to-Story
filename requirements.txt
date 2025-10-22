@@ -1,0 +1,8 @@
+transformers==4.45.1
+torch==2.4.1
+torchvision==0.19.1
+Pillow==10.4.0
+gTTS==2.5.3
+gradio==5.49.1
+accelerate
+sentencepiece
